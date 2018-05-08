@@ -1,0 +1,366 @@
+2018-05-03T04:53:42.380Z - info: Example app listening on port 3000
+2018-05-03T04:55:01.960Z - info: Inside Index Function Redirect toc:\Users\ashok.mahendran\Desktop\Sample-Node/view/head.html
+2018-05-03T04:55:01.994Z - info: Request received
+2018-05-03T04:55:16.961Z - info: Example app listening on port 3000
+2018-05-03T04:55:23.066Z - info: Inside Index Function Redirect toc:\Users\ashok.mahendran\Desktop\Sample-Node/view/index.html
+2018-05-03T04:55:23.094Z - info: Request received
+2018-05-03T04:56:36.872Z - info: Inside Insert Function
+2018-05-03T04:56:36.897Z - info: Inside Insert Function{"userid":"aspire@12","firstname":"Aspire","lastname":"Systems","password":"123456","age":"23"}
+2018-05-03T04:57:29.782Z - info: Inside getData Function
+2018-05-03T04:57:30.799Z - info: User Detail Retrived successfully
+2018-05-03T04:57:39.182Z - info: Inside deleteIndex Function Redirect toc:\Users\ashok.mahendran\Desktop\Sample-Node/view/delete.html
+2018-05-03T04:57:39.217Z - info: Request received
+2018-05-04T08:51:05.228Z - info: Example app listening on port 3000
+2018-05-04T08:51:20.025Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-04T08:51:20.116Z - info: Request received
+2018-05-04T08:51:20.165Z - info: Request received
+2018-05-04T08:51:22.539Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-04T08:51:22.566Z - info: Request received
+2018-05-04T08:51:22.588Z - info: Request received
+2018-05-04T08:51:44.771Z - info: Inside Insert Function
+2018-05-04T08:51:44.793Z - info: Inside Insert Function{"userid":"ik@gmail.com","firstname":"ilakkia","lastname":"keerthana","password":"aspire@2","age":"29"}
+2018-05-04T08:57:45.820Z - info: Inside Insert Function
+2018-05-04T08:57:45.822Z - info: Inside Insert Function{"userid":"ik@gmail.com","firstname":"ilakkia","lastname":"keerthana","password":"aspire@2","age":"29"}
+2018-05-04T09:56:37.789Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-04T09:56:37.853Z - info: Request received
+2018-05-04T09:56:39.440Z - info: Inside getData Function
+2018-05-04T09:56:40.462Z - info: User Detail Retrived successfully
+2018-05-04T09:56:48.635Z - info: Request received
+2018-05-04T09:56:57.910Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-04T09:56:57.926Z - info: Request received
+2018-05-04T09:57:45.668Z - info: Inside Insert Function
+2018-05-04T09:57:45.670Z - info: Inside Insert Function{"userid":"test@gmail.com","firstname":"test4","lastname":"1","password":"aspire@2","age":"34"}
+2018-05-04T09:57:53.818Z - info: Inside getData Function
+2018-05-04T09:57:54.833Z - info: User Detail Retrived successfully
+2018-05-04T09:58:05.833Z - info: Inside updateIndex Function Redirect toD:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-04T09:58:05.848Z - info: Request received
+2018-05-04T09:58:10.241Z - info: Inside deleteIndex Function Redirect toD:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-04T09:58:10.257Z - info: Request received
+2018-05-04T10:10:04.712Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-04T10:10:04.729Z - info: Request received
+2018-05-04T12:51:22.996Z - info: Inside Index Function Redirect toD:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-04T12:51:23.012Z - info: Request received
+2018-05-08T06:28:04.377Z - info: Example app listening on port 3000
+2018-05-08T06:28:14.090Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T06:28:14.298Z - info: Request received
+2018-05-08T06:28:14.361Z - info: Request received
+2018-05-08T06:28:15.632Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:28:15.649Z - info: Request received
+2018-05-08T06:28:15.712Z - info: Request received
+2018-05-08T06:28:49.672Z - info: Inside Insert Function
+2018-05-08T06:28:49.683Z - info: Inside Insert Function{"firstname":"yesuytyut","lastname":"vin","emailid":"v@hmail.com","phoneNumber":"76565675","password":"76786786","role":"User"}
+2018-05-08T06:30:49.735Z - info: Inside Insert Function
+2018-05-08T06:30:49.738Z - info: Inside Insert Function{"firstname":"yesuytyut","lastname":"vin","emailid":"v@hmail.com","phoneNumber":"76565675","password":"76786786","role":"User"}
+2018-05-08T06:32:49.737Z - info: Inside Insert Function
+2018-05-08T06:32:49.739Z - info: Inside Insert Function{"firstname":"yesuytyut","lastname":"vin","emailid":"v@hmail.com","phoneNumber":"76565675","password":"76786786","role":"User"}
+2018-05-08T06:33:26.603Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:33:26.617Z - info: Request received
+2018-05-08T06:36:46.616Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:36:46.635Z - info: Request received
+2018-05-08T06:36:49.692Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:36:49.703Z - info: Request received
+2018-05-08T06:36:52.764Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T06:36:52.787Z - info: Request received
+2018-05-08T06:36:54.012Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:36:54.026Z - info: Request received
+2018-05-08T06:36:58.639Z - info: Inside Insert Function
+2018-05-08T06:36:58.643Z - info: Inside Insert Function{"firstname":"","lastname":"","emailid":"","phoneNumber":"","password":"","role":"Admin"}
+2018-05-08T06:38:58.642Z - info: Inside Insert Function
+2018-05-08T06:38:58.643Z - info: Inside Insert Function{"firstname":"","lastname":"","emailid":"","phoneNumber":"","password":"","role":"Admin"}
+2018-05-08T06:40:44.658Z - info: Inside Insert Function
+2018-05-08T06:40:44.662Z - info: Inside Insert Function{"firstname":"ilakkiakeerthana","lastname":"keerthana","emailid":"ikeerthana51@gmail.com","phoneNumber":"8608998183","password":"re","role":"Admin"}
+2018-05-08T06:41:36.510Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:41:36.527Z - info: Request received
+2018-05-08T06:43:23.916Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:43:23.931Z - info: Request received
+2018-05-08T06:58:04.051Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:58:04.067Z - info: Request received
+2018-05-08T06:58:05.751Z - info: Request received
+2018-05-08T06:58:07.323Z - info: Inside getData Function
+2018-05-08T06:58:08.351Z - info: User Detail Retrived successfully
+2018-05-08T06:58:21.434Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T06:58:21.448Z - info: Request received
+2018-05-08T07:00:48.620Z - info: Inside Insert Function
+2018-05-08T07:00:48.623Z - info: Inside Insert Function{"firstname":"testing","lastname":"test","emailid":"test@gmail.com","phoneNumber":"1243254","password":"test","role":"User"}
+2018-05-08T07:00:54.994Z - info: Inside getData Function
+2018-05-08T07:00:56.005Z - info: User Detail Retrived successfully
+2018-05-08T07:07:52.306Z - info: Inside getData Function
+2018-05-08T07:07:53.316Z - info: User Detail Retrived successfully
+2018-05-08T07:07:56.461Z - info: Inside getData Function
+2018-05-08T07:07:57.474Z - info: User Detail Retrived successfully
+2018-05-08T07:07:59.493Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T07:07:59.508Z - info: Request received
+2018-05-08T07:08:00.779Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T07:08:00.794Z - info: Request received
+2018-05-08T07:08:39.287Z - info: Inside Insert Function
+2018-05-08T07:08:39.291Z - info: Inside Insert Function{"firstname":"govin","lastname":"da","emailid":"man@gmail.com","phoneNumber":"1313424","password":"testtuyuiy","role":"User"}
+2018-05-08T07:08:59.718Z - info: Request received
+2018-05-08T07:09:04.650Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T07:09:04.671Z - info: Request received
+2018-05-08T07:09:05.784Z - info: Inside getData Function
+2018-05-08T07:09:06.795Z - info: User Detail Retrived successfully
+2018-05-08T07:11:51.639Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T07:11:51.652Z - info: Request received
+2018-05-08T07:11:52.885Z - info: Inside getData Function
+2018-05-08T07:11:53.892Z - info: User Detail Retrived successfully
+2018-05-08T08:38:12.505Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T08:38:12.516Z - info: Request received
+2018-05-08T08:38:17.270Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T08:38:17.283Z - info: Request received
+2018-05-08T08:44:36.202Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T08:44:36.283Z - info: Request received
+2018-05-08T08:44:38.663Z - info: Inside getData Function
+2018-05-08T08:44:39.671Z - info: User Detail Retrived successfully
+2018-05-08T08:46:12.734Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T08:46:12.813Z - info: Request received
+2018-05-08T08:47:15.429Z - info: Inside getData Function
+2018-05-08T08:47:16.439Z - info: User Detail Retrived successfully
+2018-05-08T08:47:19.658Z - info: Inside deleteIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-08T08:47:19.683Z - info: Request received
+2018-05-08T09:01:30.727Z - info: Inside updateIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-08T09:01:30.749Z - info: Request received
+2018-05-08T09:12:36.802Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:12:36.919Z - info: Request received
+2018-05-08T09:12:39.193Z - info: Request received
+2018-05-08T09:13:56.315Z - info: Request received
+2018-05-08T09:14:17.720Z - info: Request received
+2018-05-08T09:15:15.228Z - info: Request received
+2018-05-08T09:15:35.427Z - info: Inside getData Function
+2018-05-08T09:15:36.435Z - info: User Detail Retrived successfully
+2018-05-08T09:15:50.880Z - info: Request received
+2018-05-08T09:18:42.343Z - info: Request received
+2018-05-08T09:19:21.662Z - info: Request received
+2018-05-08T09:19:34.061Z - info: Request received
+2018-05-08T09:19:34.812Z - info: Request received
+2018-05-08T09:19:35.012Z - info: Request received
+2018-05-08T09:19:35.207Z - info: Request received
+2018-05-08T09:19:35.396Z - info: Request received
+2018-05-08T09:19:35.596Z - info: Request received
+2018-05-08T09:19:35.781Z - info: Request received
+2018-05-08T09:19:36.980Z - info: Request received
+2018-05-08T09:19:37.437Z - info: Request received
+2018-05-08T09:19:37.644Z - info: Request received
+2018-05-08T09:19:37.837Z - info: Request received
+2018-05-08T09:25:57.762Z - info: Example app listening on port 3000
+2018-05-08T09:26:04.529Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:26:04.548Z - info: Request received
+2018-05-08T09:26:16.211Z - info: User Detail Updated successfully login
+2018-05-08T09:29:09.374Z - info: User Detail Updated successfully login
+2018-05-08T09:29:12.935Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:29:13.037Z - info: Request received
+2018-05-08T09:29:21.165Z - info: User Detail Updated successfully login
+2018-05-08T09:29:27.372Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:29:27.386Z - info: Request received
+2018-05-08T09:29:34.197Z - info: User Detail Updated successfully login
+2018-05-08T09:30:13.773Z - info: User Detail Updated successfully login
+2018-05-08T09:30:18.018Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:30:18.033Z - info: Request received
+2018-05-08T09:30:23.376Z - info: User Detail Updated successfully login
+2018-05-08T09:33:11.906Z - info: User Detail Updated successfully login
+2018-05-08T09:33:15.351Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:33:15.433Z - info: Request received
+2018-05-08T09:33:22.477Z - info: User Detail Updated successfully login
+2018-05-08T09:34:23.378Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:34:23.464Z - info: Request received
+2018-05-08T09:34:31.350Z - info: User Detail Updated successfully login
+2018-05-08T09:35:27.357Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:35:27.445Z - info: Request received
+2018-05-08T09:35:34.456Z - info: User Detail Updated successfully login
+2018-05-08T09:36:35.076Z - info: Example app listening on port 3000
+2018-05-08T09:36:40.607Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:36:40.690Z - info: Request received
+2018-05-08T09:36:48.850Z - info: Successfully login
+2018-05-08T09:36:48.851Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:36:48.863Z - info: Request received
+2018-05-08T09:37:02.190Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:37:02.230Z - info: Request received
+2018-05-08T09:44:16.215Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:44:16.302Z - info: Request received
+2018-05-08T09:44:16.583Z - info: Successfully login
+2018-05-08T09:44:16.584Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:44:23.779Z - info: Successfully login
+2018-05-08T09:44:23.779Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:44:23.800Z - info: Request received
+2018-05-08T09:47:16.755Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:47:17.675Z - info: Request received
+2018-05-08T09:47:55.937Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:47:55.953Z - info: Request received
+2018-05-08T09:48:03.453Z - info: Successfully login
+2018-05-08T09:48:03.455Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:48:03.468Z - info: Request received
+2018-05-08T09:48:12.471Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:48:12.490Z - info: Request received
+2018-05-08T09:51:48.115Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:51:48.138Z - info: Request received
+2018-05-08T09:51:50.381Z - info: Request received
+2018-05-08T09:51:51.448Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:51:51.471Z - info: Request received
+2018-05-08T09:54:02.387Z - info: Example app listening on port 3000
+2018-05-08T09:54:07.487Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:54:07.516Z - info: Request received
+2018-05-08T09:54:13.245Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:54:13.256Z - info: Request received
+2018-05-08T09:54:18.588Z - info: Successfully login
+2018-05-08T09:54:18.589Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:54:18.600Z - info: Request received
+2018-05-08T09:54:19.794Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:54:19.809Z - info: Request received
+2018-05-08T09:55:08.119Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:08.143Z - info: Request received
+2018-05-08T09:55:10.013Z - info: Request received
+2018-05-08T09:55:16.384Z - info: Request received
+2018-05-08T09:55:48.215Z - info: Request received
+2018-05-08T09:55:50.631Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:50.645Z - info: Request received
+2018-05-08T09:55:51.534Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:51.548Z - info: Request received
+2018-05-08T09:55:51.728Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:51.742Z - info: Request received
+2018-05-08T09:55:51.918Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:51.931Z - info: Request received
+2018-05-08T09:55:53.408Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:53.422Z - info: Request received
+2018-05-08T09:55:53.589Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:53.598Z - info: Request received
+2018-05-08T09:55:53.782Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:55:53.797Z - info: Request received
+2018-05-08T09:55:54.679Z - info: Inside Insert Function
+2018-05-08T09:57:54.708Z - info: Inside Insert Function
+2018-05-08T09:59:33.892Z - info: Example app listening on port 3000
+2018-05-08T09:59:36.053Z - info: Inside Insert Function
+2018-05-08T09:59:43.740Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T09:59:43.763Z - info: Request received
+2018-05-08T09:59:49.372Z - info: Successfully login
+2018-05-08T09:59:49.372Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:59:49.381Z - info: Request received
+2018-05-08T09:59:50.602Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:59:50.613Z - info: Request received
+2018-05-08T09:59:53.216Z - info: Successfully login
+2018-05-08T09:59:53.216Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T09:59:53.231Z - info: Request received
+2018-05-08T09:59:57.634Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T09:59:57.642Z - info: Request received
+2018-05-08T10:01:23.658Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:01:23.678Z - info: Request received
+2018-05-08T10:02:19.732Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:02:19.741Z - info: Request received
+2018-05-08T10:02:39.303Z - info: Inside Insert Function
+2018-05-08T10:03:44.758Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:03:44.772Z - info: Request received
+2018-05-08T10:03:53.624Z - info: Inside Insert Function
+2018-05-08T10:04:46.463Z - info: Example app listening on port 3000
+2018-05-08T10:04:48.079Z - info: Inside Insert Function
+2018-05-08T10:05:00.666Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:05:00.691Z - info: Request received
+2018-05-08T10:05:08.608Z - info: Inside Insert Function
+2018-05-08T10:07:25.683Z - info: Inside Insert Function
+2018-05-08T10:18:18.942Z - info: Inside Insert Function
+2018-05-08T10:20:19.011Z - info: Inside Insert Function
+2018-05-08T10:22:19.010Z - info: Inside Insert Function
+2018-05-08T10:24:24.018Z - info: Inside Insert Function
+2018-05-08T10:25:14.358Z - info: Example app listening on port 3000
+2018-05-08T10:25:41.694Z - info: Inside Insert Function
+2018-05-08T10:26:28.263Z - info: Example app listening on port 3000
+2018-05-08T10:26:45.122Z - info: Successfully login
+2018-05-08T10:26:45.123Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T10:26:45.137Z - info: Request received
+2018-05-08T10:26:46.514Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:26:46.528Z - info: Request received
+2018-05-08T10:26:55.928Z - info: Inside Insert Function
+2018-05-08T10:26:55.932Z - info: Inside Insert Function{"firstname":"ghjigh","lastname":"","emailid":"","phoneNumber":"","password":"660f2fe5d1bdbc668ec7882125a02511","role":"Admin"}
+2018-05-08T10:27:52.092Z - info: Successfully login
+2018-05-08T10:27:52.092Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T10:27:52.106Z - info: Request received
+2018-05-08T10:27:53.409Z - info: Inside getData Function
+2018-05-08T10:27:54.425Z - info: User Detail Retrived successfully
+2018-05-08T10:27:58.164Z - info: Request received
+2018-05-08T10:28:00.865Z - info: Inside deleteIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-08T10:28:00.884Z - info: Request received
+2018-05-08T10:28:03.800Z - info: Successfully login
+2018-05-08T10:28:03.800Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T10:28:03.813Z - info: Request received
+2018-05-08T10:28:05.288Z - info: Inside updateIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-08T10:28:05.306Z - info: Request received
+2018-05-08T10:28:07.403Z - info: Successfully login
+2018-05-08T10:28:07.403Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T10:28:07.411Z - info: Request received
+2018-05-08T10:28:21.934Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T10:28:22.733Z - info: Request received
+2018-05-08T10:29:00.822Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T10:29:00.836Z - info: Request received
+2018-05-08T10:29:14.029Z - info: Inside login Function Redirect tod:\Node_JavaScript\Node-Sample/view/login.html
+2018-05-08T10:29:14.044Z - info: Request received
+2018-05-08T10:30:13.873Z - info: Inside getData Function
+2018-05-08T10:30:14.883Z - info: User Detail Retrived successfully
+2018-05-08T10:40:18.882Z - info: Example app listening on port 3000
+2018-05-08T10:40:27.688Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T10:40:27.710Z - info: Request received
+2018-05-08T10:40:29.608Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T10:40:29.627Z - info: Request received
+2018-05-08T10:40:37.322Z - info: Inside Insert Function
+2018-05-08T11:37:18.192Z - info: Inside Insert Function
+2018-05-08T11:39:18.201Z - info: Inside Insert Function
+2018-05-08T11:40:46.173Z - info: Example app listening on port 3000
+2018-05-08T11:41:00.297Z - info: Request received
+2018-05-08T11:41:03.137Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T11:41:03.156Z - info: Request received
+2018-05-08T11:41:15.632Z - info: Inside Insert Function 1
+2018-05-08T11:41:15.638Z - info: Inside Insert Function 2
+2018-05-08T11:43:15.676Z - info: Inside Insert Function 1
+2018-05-08T11:43:15.677Z - info: Inside Insert Function 2
+2018-05-08T11:45:02.667Z - info: Example app listening on port 3000
+2018-05-08T11:45:09.657Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:45:09.683Z - info: Request received
+2018-05-08T11:46:15.548Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:46:15.570Z - info: Request received
+2018-05-08T11:46:41.788Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:46:41.806Z - info: Request received
+2018-05-08T11:47:30.055Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T11:47:30.070Z - info: Request received
+2018-05-08T11:47:42.610Z - info: Request received
+2018-05-08T11:47:43.526Z - info: Inside getData Function
+2018-05-08T11:47:44.547Z - info: User Detail Retrived successfully
+2018-05-08T11:47:46.642Z - info: Request received
+2018-05-08T11:47:48.989Z - info: Inside deleteIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-08T11:47:49.001Z - info: Request received
+2018-05-08T11:48:50.024Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T11:48:50.039Z - info: Request received
+2018-05-08T11:48:58.805Z - info: Request received
+2018-05-08T11:48:59.992Z - info: Inside getData Function
+2018-05-08T11:49:01.003Z - info: User Detail Retrived successfully
+2018-05-08T11:49:03.023Z - info: Inside deleteIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-08T11:49:03.037Z - info: Request received
+2018-05-08T11:49:06.650Z - info: Request received
+2018-05-08T11:49:07.872Z - info: Inside updateIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-08T11:49:07.886Z - info: Request received
+2018-05-08T11:49:49.173Z - info: Example app listening on port 3000
+2018-05-08T11:49:59.296Z - info: Inside updateIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-08T11:49:59.318Z - info: Request received
+2018-05-08T11:50:02.406Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:02.416Z - info: Request received
+2018-05-08T11:50:04.379Z - info: Inside getData Function
+2018-05-08T11:50:05.417Z - info: User Detail Retrived successfully
+2018-05-08T11:50:08.029Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T11:50:08.042Z - info: Request received
+2018-05-08T11:50:09.813Z - info: Successfully login
+2018-05-08T11:50:09.813Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:10.764Z - info: Successfully login
+2018-05-08T11:50:10.764Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:10.781Z - info: Request received
+2018-05-08T11:50:12.515Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T11:50:12.530Z - info: Request received
+2018-05-08T11:50:14.184Z - info: Successfully login
+2018-05-08T11:50:14.185Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:14.198Z - info: Request received
+2018-05-08T11:50:15.324Z - info: Inside deleteIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/delete.html
+2018-05-08T11:50:15.341Z - info: Request received
+2018-05-08T11:50:17.083Z - info: Successfully login
+2018-05-08T11:50:17.084Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:17.096Z - info: Request received
+2018-05-08T11:50:19.540Z - info: Inside updateIndex Function Redirect tod:\Node_JavaScript\Node-Sample/view/update.html
+2018-05-08T11:50:19.554Z - info: Request received
+2018-05-08T11:50:21.542Z - info: Successfully login
+2018-05-08T11:50:21.542Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/head.html
+2018-05-08T11:50:21.549Z - info: Request received
+2018-05-08T12:14:52.453Z - info: Inside Index Function Redirect tod:\Node_JavaScript\Node-Sample/view/index.html
+2018-05-08T12:14:52.465Z - info: Request received
